@@ -1,0 +1,1 @@
+# SyntheticDataPredictor-Rural-vs-Urban-Classification
